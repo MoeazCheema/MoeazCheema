@@ -1,13 +1,18 @@
 Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Moeaz Ahmed
 ======================================================================================================================================
-<strong>Mern Stack Developer<strong/><br>
-I am working on frameworks like React Js and Node Js
+<h3 align="center">Passionate Flutter developer</h3>
 
-* 🌍  I'm based in Lahore, Pakistan
-* ✉️  You can contact me at [moeazcheema@gmail.com](mailto:moeazcheema@gmail.com)
-* 🧠  I'm learning technologies related to web development
-* 🤝  I'm open to collaborate on Web Development
-* ⚡  I have worked in C++, C, mySQL, Node.js, Express.js, React.js
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moeazcheema&label=Profile%20views&color=0e75b6&style=flat" alt="moeazcheema" /> </p>
+
+- 🔭 I’m currently working on **Andriod applications**
+
+- 🌱 I’m currently learning **React , Flutter**
+
+- 👯 I’m looking to collaborate on **Flutter Development**
+
+- 📫 Contact me at **moeazcheema@gmail.com**
+
+- ⚡I have worked in **C++,Java,C#,mySQL,Python,Data Structure**
 
 ### Skills
 
@@ -54,7 +59,10 @@ I am working on frameworks like React Js and Node Js
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/profile.php?id=100049977755921" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Abduullaahh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/abdullah_tahirrr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abdullah-tahir-7444b4204" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/HafizAbdullahT8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="https://twitter.com/ch_moeezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ch_moeezz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad moaez ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad moaez ahmad" height="30" width="40" /></a>
+<a href="https://fb.com/moiz cheema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moiz cheema" height="30" width="40" /></a>
+<a href="https://instagram.com/ch.moizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ch.moizz" height="30" width="40" /></a>
 
 ### Badges
 
