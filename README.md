@@ -1,10 +1,10 @@
-Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Abdullah Tahir
+Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Moeaz Ahmed
 ======================================================================================================================================
 <strong>Mern Stack Developer<strong/><br>
 I am working on frameworks like React Js and Node Js
 
 * 🌍  I'm based in Lahore, Pakistan
-* ✉️  You can contact me at [hafizabdullahtahir@gmail.com](mailto:hafizabdullahtahir@gmail.com)
+* ✉️  You can contact me at [moeazcheema@gmail.com](mailto:moeazcheema@gmail.com)
 * 🧠  I'm learning technologies related to web development
 * 🤝  I'm open to collaborate on Web Development
 * ⚡  I have worked in C++, C, mySQL, Node.js, Express.js, React.js
